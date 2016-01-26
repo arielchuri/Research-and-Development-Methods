@@ -41,17 +41,17 @@ By the successful completion of this course, students will be able, at an introd
 | **11** 04/12   | Urban Politics / Contextual Futures                     | Reading -Corner _The Agency of Mapping_                             |                                                  |
 | **12** 04/19   | Work Session / Independent Reviews                      |                                                                     |                                                  |
 | **13** 04/26   | Work Session / Independent Reviews                      |                                                                     |                                                  |
-| **14** 05/03   | Urban Futuring Presentation                             |                                                                     | Assignment 07: _Urban Futuring_                  |
+| **14** 05/03   | Urban Futuring Presentation                             |                                                                     | Assignment 07: _New York Cities_                 |
 | **15** 05/10   | Course Retrospective                                    |                                                                     |                                                  |
 
 # Assessable Tasks
-Assignment 01: Urban Observation     
-Assignment 02: Data Digging     
-Assignment 03: Tracking Urbanites     
+Assignment 01: Urban Observation, Data Digging     
+Assignment 02: Method Exploration
+Assignment 03: Trackers         
 Assignment 04: City Probes     
 Assignment 05: Perception Analysis     
 Assignment 06: Analysis for Design     
-Assignment 07: Urban Futuring    
+Assignment 07: New York Cities
 
 #The Parsons Learning Portfolio
 The Parsons Learning Portfolio is an ongoing, cumulative repository for each student’s experience across courses, and across years. It archives individual student’s processes of reflection, productive failure, skills learned, and interdisciplinary connections made, as well as final “finished” work.
