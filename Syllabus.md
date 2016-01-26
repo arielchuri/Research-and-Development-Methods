@@ -70,8 +70,8 @@ Gaver, William: _Cultural Probes and the Value of Uncertainty_
 Grand, Simon: _Design Fiction, A Method Toolbox_    
 Underhill, Paco: _Why We Buy_    
 Zaccai, Gianfranco: _Art and Technology_   
-[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce) 
-[The Social Life of Small Urban Spaces : William H. Whyte : Free Download & Streaming : Internet Archive] (https://archive.org/details/SmallUrbanSpaces) 
+[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
+[The Social Life of Small Urban Spaces : William H. Whyte : Free Download & Streaming : Internet Archive] (https://archive.org/details/SmallUrbanSpaces)     
 
 # Recommended Reading 
 Ferzoco, Jeff: “The You City” Ascher,     
@@ -103,7 +103,7 @@ Assignment 03: Tracking Urbanites 5%
 Assignment 04: City Probes 5%   
 Assignment 05: Perception Analysis 10%   
 Assignment 06: Analysis for Design 10%  
-Assignment 07: Urban Futuring 40%
+Assignment 07: Urban Futuring 40%    
 TOTAL 100%
  
  **Grading Standards**
