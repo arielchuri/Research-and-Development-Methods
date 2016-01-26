@@ -97,13 +97,13 @@ Students’ ability to meet the course’s learning outcomes will be evaluated b
  
 # Final Grade Calculation
 Participation / Attendance 20%   
-Assignment 01: Urban Observation 5%   
-Assignment 02: Data Digging 5%   
-Assignment 03: Tracking Urbanites 5%   
+Assignment 01: Urban Observation, Data Digging 5%   
+Assignment 02: Method Exploration 5%   
+Assignment 03: Trackers 5%   
 Assignment 04: City Probes 5%   
 Assignment 05: Perception Analysis 10%   
 Assignment 06: Analysis for Design 10%  
-Assignment 07: Urban Futuring 40%    
+Assignment 07: New York Cities 40%    
 TOTAL 100%
  
 # Grading Standards
