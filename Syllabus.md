@@ -106,7 +106,7 @@ Assignment 06: Analysis for Design 10%
 Assignment 07: Urban Futuring 40%    
 TOTAL 100%
  
-**Grading Standards**
+# Grading Standards
 
 **A  [4.0; 96–100%]**    
 Work of exceptional quality, which often goes beyond the stated goals of the course
