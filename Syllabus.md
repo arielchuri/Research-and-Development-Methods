@@ -45,13 +45,13 @@ By the successful completion of this course, students will be able, at an introd
 | **15** 05/10   | Course Retrospective                                    |                                                                     |                                                  |
 
 # Assessable Tasks
-Assignment 01: Urban Observation 
-Assignment 02: Data Digging 
-Assignment 03: Tracking Urbanites 
-Assignment 04: City Probes 
-Assignment 05: Perception Analysis 
-Assignment 06: Analysis for Design 
-Assignment 07: Urban Futuring
+Assignment 01: Urban Observation     
+Assignment 02: Data Digging     
+Assignment 03: Tracking Urbanites     
+Assignment 04: City Probes     
+Assignment 05: Perception Analysis     
+Assignment 06: Analysis for Design     
+Assignment 07: Urban Futuring    
 
 #The Parsons Learning Portfolio
 The Parsons Learning Portfolio is an ongoing, cumulative repository for each student’s experience across courses, and across years. It archives individual student’s processes of reflection, productive failure, skills learned, and interdisciplinary connections made, as well as final “finished” work.
@@ -61,7 +61,7 @@ The Parsons Learning Portfolio will serve as a bridging mechanism to facilitate 
 Students are encouraged to maintain a learning portfolio across all of their course work during the course of their studies at Parsons.
 
 # Required Reading / Media 
-Norman, Don: _The Design of Everyday Things_
+Norman, Don: _The Design of Everyday Things_    
 Baty, Steve: _Deconstructing Analysis Techniques_    
 Corner, James _The Agency of Mapping_   
 Candy, Stuart: _Strategic Foresight_   
@@ -74,7 +74,7 @@ Zaccai, Gianfranco: _Art and Technology_
 [The Social Life of Small Urban Spaces : William H. Whyte : Free Download & Streaming : Internet Archive] (https://archive.org/details/SmallUrbanSpaces) 
 
 # Recommended Reading 
-Ferzoco, Jeff: “The You City” Ascher, 
+Ferzoco, Jeff: “The You City” Ascher,     
 Kate: “The Works: The Anatomy of a City” 
 
 # Materials for class
@@ -175,7 +175,7 @@ This is the university’s Statement on Academic Integrity: “Plagiarism and ch
 It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others.  Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.  
 Every student at Parsons signs an Academic Integrity Statement as a part of the registration process.  Thus, you are held responsible for being familiar with, understanding, adhering to and upholding the spirit and standards of academic integrity as set forth by the Parsons Student Handbook.  
 
-**Guidelines for Written Assignmen**
+**Guidelines for Written Assignments**
 Plagiarism is the use of another person's words or ideas in any academic work using books, journals, internet postings, or other student papers without proper acknowledgment. For further information on proper acknowledgment and plagiarism, including expectations for paraphrasing source material and proper forms of citation in research and writing, students should consult the Chicago Manual of Style (cf. Turabian, 6th edition). The University Learning Center also provides useful on-line resources to help students understand and avoid plagiarism. See http://www.newschool.edu/admin/writingcenter/.  
 Students must receive prior permission from instructors to submit the same or substantially overlapping material for two different assignments.  Submission of the same work for two assignments without the prior permission of instructors is plagiarism.  
 
