@@ -8,6 +8,8 @@ G CRN 5396 Tuesdays 03:50pm, 63 Fifth Ave. #417
 
 **Instructor: Ariel Churi** churia@newschool.edu Office hours by appointment
 
+Files: https://github.com/arielchuri/Research-and-Development-Methods?files=1
+
 # Course Description
 
 This course is an introduction to the nature of design research, where students gain practical experience in the various research and design methodologies. Students work in teams to apply the different techniques, through a series of miniprojects and applications, conducting research outside the classroom and engaging users and experts to share their perspectives on research and design. Students also learn how to map out their research findings and to envision and articulate design driven interventions.
