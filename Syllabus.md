@@ -100,7 +100,7 @@ Students’ ability to meet the course’s learning outcomes will be evaluated b
 + attendance in class and the timely completion of assignments
  
 # Final Grade Calculation
-Participation / Attendance 20%   
+Participation / Attendance / Blog Posts 20%   
 Assignment 01: Urban Observation, Data Digging 5%   
 Assignment 02: Method Exploration 5%   
 Assignment 03: Trackers 5%   
