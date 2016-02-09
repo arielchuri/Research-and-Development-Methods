@@ -75,7 +75,7 @@ Zaccai, Gianfranco: _Art and Technology_
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
 [The Social Life of Small Urban Spaces : William H. Whyte : Free Download & Streaming : Internet Archive] (https://archive.org/details/SmallUrbanSpaces)     
 [Universal Methods of Design] http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/reader.action?ppg=1&docID=10690608&tm=1454425142413
-
+West, Suzanne: _Working With Style_
 
 # Recommended Reading 
 Ferzoco, Jeff: “The You City” Ascher,     
