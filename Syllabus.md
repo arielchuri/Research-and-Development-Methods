@@ -66,7 +66,7 @@ Students are encouraged to maintain a learning portfolio across all of their cou
 Norman, Don: _The Design of Everyday Things_    
 Baty, Steve: _Deconstructing Analysis Techniques_    
 Corner, James _The Agency of Mapping_   
-Candy, Stuart: _Strategic Foresight_   
+[Candy, Stuart 2011 - Strategic Foresight] (https://www.scribd.com/doc/59578445/Candy-2011-Strategic-Foresight) 
 Dubberly, Hugh: _The Analysis­Synthesis Bridge Model_   
 Gaver, William: _Cultural Probes and the Value of Uncertainty_   
 Grand, Simon: _Design Fiction, A Method Toolbox_    
