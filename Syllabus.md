@@ -47,19 +47,31 @@ By the successful completion of this course, students will be able, at an introd
 | **15** 05/10   | Course Retrospective                                    |                                                                     |                                                  |
 
 # Assessable Tasks
+
 ###### Assignment 01: Urban Observation, Data Digging     
+    
     + [Universal Methods of Design, Literature Reviews] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=112) 
     + [Universal Methods of Design, Secondary Research] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=112) 
+
 ###### Assignment 02: Method Exploration
+
 ###### Assignment 03: Trackers         
-[Universal Methods of Design, Behavioral Mapping] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=18) 
-[Universal Methods of Design, Fly-on-the-Wall Observation] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=90) 
+    
+    [Universal Methods of Design, Behavioral Mapping] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=18) 
++ [Universal Methods of Design, Fly-on-the-Wall Observation] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=90) 
+
 ###### Assignment 04: City Probes     
-[Univerasl Methods of Design, Cultural Probes] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=54) 
+
++ [Univerasl Methods of Design, Cultural Probes] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=54) 
+
 ###### Assignment 05: Perception Analysis     
+
 ###### Assignment 06: Analysis for Design     
+
 ###### Assignment 07: New York Cities
+
 ###### Blog Posts
+
  + What is Design Research?
  + Affordances
  + What is primary and secondary research?
