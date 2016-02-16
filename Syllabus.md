@@ -47,16 +47,16 @@ By the successful completion of this course, students will be able, at an introd
 | **15** 05/10   | Course Retrospective                                    |                                                                     |                                                  |
 
 # Assessable Tasks
-#### Assignment 01: Urban Observation, Data Digging     
-#### Assignment 02: Method Exploration
-#### Assignment 03: Trackers         
-#### Assignment 04: City Probes     
+##### Assignment 01: Urban Observation, Data Digging     
+##### Assignment 02: Method Exploration
+##### Assignment 03: Trackers         
+##### Assignment 04: City Probes     
 [ebrary ProQuest Reader] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=54) 
 
-#### Assignment 05: Perception Analysis     
-#### Assignment 06: Analysis for Design     
-#### Assignment 07: New York Cities
-#### Blog Posts
+##### Assignment 05: Perception Analysis     
+##### Assignment 06: Analysis for Design     
+##### Assignment 07: New York Cities
+##### Blog Posts
  + What is Design Research?
  + Affordances
  + What is primary and secondary research?
