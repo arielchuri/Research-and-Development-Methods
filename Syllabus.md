@@ -31,7 +31,7 @@ By the successful completion of this course, students will be able, at an introd
 | **02** 02/02   | INVESTIGATION                                           | Film -_The Social Life of Small Urban Spaces_                       | Assignment 01: _Urban Observation, Data Digging_ |
 | **03** 02/09   | Method Exploration - short presentations                | Reading -Underhill _Why We Buy_ Chapter 1+2                         | Assignment 02: _Method Exploration_              |
 | **04** 02/16   | Tracking Extrapolation                                  | Reading -Gaver _Cultural Probes and the Value of Uncertainty_       | Assignment 03: _Trackers_                        |
-| **05** 02/23   | Probes Kit Development and Deployment                   |                                                                     | Assignment 04: _City Probes_                     |
+| **05** 02/23   | Probes Kit Development and Deployment                   | Redaing -Norman _The Design of Everyday Things_ Chptr. 1-2          | Assignment 04: _City Probes_                     |
 | **06** 03/01   | ANALYSIS Assignment 06: _Analysis for Design_           | Reading -Batty _Deconstructing Analysis Techniques_                 | Assignment 05: _Perception Analysis_             |
 | **07** 03/08   | Analysis and Synthesis Review                           | Reading -Candy _Strategic Foresight_                                | Assignment 06: _Analysis for Design_             |
 |                | Reading -Dubberly _The Analysis-Synthesis Bridge Model_ |                                                                     |                                                  |
@@ -57,6 +57,11 @@ By the successful completion of this course, students will be able, at an introd
 #### Assignment 06: Analysis for Design     
 #### Assignment 07: New York Cities
 #### Blog Posts
+ + What is Design Research?
+ + Affordances
+ + What is primary and secondary research?
+ + What is qualitative and quantitative research?
+ + What is generative and evaluative research?
 
 #The Parsons Learning Portfolio
 The Parsons Learning Portfolio is an ongoing, cumulative repository for each student’s experience across courses, and across years. It archives individual student’s processes of reflection, productive failure, skills learned, and interdisciplinary connections made, as well as final “finished” work.
