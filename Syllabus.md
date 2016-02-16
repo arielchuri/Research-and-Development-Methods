@@ -50,14 +50,14 @@ By the successful completion of this course, students will be able, at an introd
 
 ###### Assignment 01: Urban Observation, Data Digging     
     
-    + [Universal Methods of Design, Literature Reviews] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=112) 
-    + [Universal Methods of Design, Secondary Research] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=112) 
++ [Universal Methods of Design, Literature Reviews] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=112) 
++ [Universal Methods of Design, Secondary Research] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=112) 
 
 ###### Assignment 02: Method Exploration
 
 ###### Assignment 03: Trackers         
     
-    [Universal Methods of Design, Behavioral Mapping] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=18) 
++ [Universal Methods of Design, Behavioral Mapping] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=18) 
 + [Universal Methods of Design, Fly-on-the-Wall Observation] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=90) 
 
 ###### Assignment 04: City Probes     
