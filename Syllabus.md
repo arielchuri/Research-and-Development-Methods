@@ -50,10 +50,13 @@ By the successful completion of this course, students will be able, at an introd
 Assignment 01: Urban Observation, Data Digging     
 Assignment 02: Method Exploration
 Assignment 03: Trackers         
-Assignment 04: City Probes     
+## Assignment 04: City Probes     
+[ebrary ProQuest Reader] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=54) 
+
 Assignment 05: Perception Analysis     
 Assignment 06: Analysis for Design     
 Assignment 07: New York Cities
+Blog Posts
 
 #The Parsons Learning Portfolio
 The Parsons Learning Portfolio is an ongoing, cumulative repository for each student’s experience across courses, and across years. It archives individual student’s processes of reflection, productive failure, skills learned, and interdisciplinary connections made, as well as final “finished” work.
@@ -74,7 +77,7 @@ Underhill, Paco: _Why We Buy_ 
 Zaccai, Gianfranco: _Art and Technology_   
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
 [The Social Life of Small Urban Spaces : William H. Whyte : Free Download & Streaming : Internet Archive] (https://archive.org/details/SmallUrbanSpaces)     
-[Universal Methods of Design] http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/reader.action?ppg=1&docID=10690608&tm=1454425142413
+[Universal Methods of Design] (http://site.ebrary.com/lib/newschool/detail.action?docID=10690608&p00=universal+methods+design)
 West, Suzanne: _Working With Style_
 
 # Recommended Reading 
