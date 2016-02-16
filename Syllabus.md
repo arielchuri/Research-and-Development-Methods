@@ -47,16 +47,16 @@ By the successful completion of this course, students will be able, at an introd
 | **15** 05/10   | Course Retrospective                                    |                                                                     |                                                  |
 
 # Assessable Tasks
-### Assignment 01: Urban Observation, Data Digging     
-### Assignment 02: Method Exploration
-### Assignment 03: Trackers         
-### Assignment 04: City Probes     
+#### Assignment 01: Urban Observation, Data Digging     
+#### Assignment 02: Method Exploration
+#### Assignment 03: Trackers         
+#### Assignment 04: City Probes     
 [ebrary ProQuest Reader] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=54) 
 
-### Assignment 05: Perception Analysis     
-### Assignment 06: Analysis for Design     
-### Assignment 07: New York Cities
-### Blog Posts
+#### Assignment 05: Perception Analysis     
+#### Assignment 06: Analysis for Design     
+#### Assignment 07: New York Cities
+#### Blog Posts
 
 #The Parsons Learning Portfolio
 The Parsons Learning Portfolio is an ongoing, cumulative repository for each student’s experience across courses, and across years. It archives individual student’s processes of reflection, productive failure, skills learned, and interdisciplinary connections made, as well as final “finished” work.
