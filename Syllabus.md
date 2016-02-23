@@ -33,6 +33,7 @@ By the successful completion of this course, students will be able, at an introd
 | **04** 02/16   | Tracking Extrapolation                                  | Reading -Gaver _Cultural Probes and the Value of Uncertainty_       | Assignment 03: _Trackers_                        |
 | **05** 02/23   | Probes Kit Development and Deployment                   | Redaing -Norman _The Design of Everyday Things_ Chptr. 1-2          | Assignment 04: _City Probes_                     |
 | **06** 03/01   | ANALYSIS Assignment 06: _Analysis for Design_           | Reading -Batty _Deconstructing Analysis Techniques_                 | Assignment 05: _Perception Analysis_             |
+|                |                                                         | Reading -Lee _Design Research: What is it and why do it?_           |                                                  |
 | **07** 03/08   | Analysis and Synthesis Review                           | Reading -Candy _Strategic Foresight_                                | Assignment 06: _Analysis for Design_             |
 |                | Reading -Dubberly _The Analysis-Synthesis Bridge Model_ |                                                                     |                                                  |
 | **08** 03/15   | Probes Kit Review - In-class design session             |                                                                     | Returned Probes Kits due                         |
@@ -90,6 +91,7 @@ Students are encouraged to maintain a learning portfolio across all of their cou
 # Required Reading / Media 
 Norman, Don: _The Design of Everyday Things_    
 Baty, Steve: _Deconstructing Analysis Techniques_    
+[Reboot | Design Research: What Is It and Why Do It?] (http://reboot.org/2012/02/19/design-research-what-is-it-and-why-do-it/) 
 Corner, James _The Agency of Mapping_   
 [Candy, Stuart 2011 - Strategic Foresight] (https://www.scribd.com/doc/59578445/Candy-2011-Strategic-Foresight)     
 Dubberly, Hugh: _The Analysis­Synthesis Bridge Model_   
