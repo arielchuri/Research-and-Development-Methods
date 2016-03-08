@@ -74,6 +74,7 @@ By the successful completion of this course, students will be able, at an introd
 ###### Assignment 07: New York Cities
 
 + [NYC FORESIGHT DEPARTMENT - Chris Woebken] (http://chriswoebken.com/NYC-FORESIGHT-DEPARTMENT) 
++ [Research-and-Development-Methods/90dayreport.pdf at master · arielchuri/Research-and-Development-Methods] (https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Reading/90dayreport.pdf) 
 
 ###### Blog Posts
 
