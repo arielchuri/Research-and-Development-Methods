@@ -73,7 +73,7 @@ By the successful completion of this course, students will be able, at an introd
 
 ###### Assignment 07: New York Cities
 
-+ [Special Burger Sauce Recipe : Food Network] (http://www.foodnetwork.com/recipes/special-burger-sauce.html)  
++ [NYC FORESIGHT DEPARTMENT - Chris Woebken] (http://chriswoebken.com/NYC-FORESIGHT-DEPARTMENT) 
 
 ###### Blog Posts
 
