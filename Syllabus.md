@@ -2,9 +2,8 @@
 
 STRATEGIC DESIGN AND MANAGEMENT PARSONS THE NEW SCHOOL FOR DESIGN
 
-Spring 2016, PSDS 2100  
-B CRN 5391 Tuesdays 12:10pm, 25 E 13th St. #503  
-G CRN 5396 Tuesdays 03:50pm, 63 Fifth Ave. #417  
+Spring 2017, PSDS 2100  
+B CRN 4783 Mondays 3:50pm, 66 Fifth Ave. #603
 
 **Instructor: Ariel Churi** churia@newschool.edu Office hours by appointment
 
@@ -25,92 +24,109 @@ By the successful completion of this course, students will be able, at an introd
 1. DEMONSTRATE COMPETENCE IN working as a team member.
 
 # Course Outline
-| Week           | Class Theme & Activities                                | Reading / Media Due                                                 | Assignment Due                                   |
-| -----------:   | --------------------------                              | ----------------------------------------------------------          | -----------------------                          |
-| **01** 01/26   | INTRODUCTION & OVERVIEW                                 | Malcolm Gladwell -Ted Talk: _Choice, happiness and spaghetti sauce_ |                                                  |
-| **02** 02/02   | INVESTIGATION                                           | Film -_The Social Life of Small Urban Spaces_                       | Assignment 01: _Urban Observation, Data Digging_ |
-| **03** 02/09   | Method Exploration - short presentations                | Reading -Underhill _Why We Buy_ Chapter 1+2                         | Assignment 02: _Method Exploration_              |
-| **04** 02/16   | Tracking Extrapolation                                  | Reading -Gaver _Cultural Probes and the Value of Uncertainty_       | Assignment 03: _Trackers_                        |
-| **05** 02/23   | Probes Kit Development and Deployment                   | Redaing -Norman _The Design of Everyday Things_ Chptr. 1-2          | Assignment 04: _City Probes_                     |
-| **06** 03/01   | ANALYSIS Assignment 06: _Analysis for Design_           | Reading -Batty _Deconstructing Analysis Techniques_                 | Assignment 05: _Perception Analysis_             |
-|                |                                                         | Reading -Lee _Design Research: What is it and why do it?_           |                                                  |
-| **07** 03/08   | Analysis and Synthesis Review                           | Reading -Candy _Strategic Foresight_                                | Assignment 06: _Analysis for Design_             |
-|                | Reading -Dubberly _The Analysis-Synthesis Bridge Model_ |                                                                     |                                                  |
-| **08** 03/15   | Probes Kit Review - In-class design session             |                                                                     | Returned Probes Kits due                         |
-| No Class 03/22 |                                                         |                                                                     |                                                  |
-| **09** 03/29   | INTERPRETATION                                          |                                                                     |                                                  |
-|                | Assignment 07: _Urban Futuring_                         |                                                                     |                                                  |
-| **10** 04/05   | Reading -Grand _Design Fiction, A Method Toolbox_       |                                                                     |                                                  |
-| **11** 04/12   | Urban Politics / Contextual Futures                     | Reading -Corner _The Agency of Mapping_                             |                                                  |
-| **12** 04/19   | Work Session / Independent Reviews                      |                                                                     |                                                  |
-| **13** 04/26   | Work Session / Independent Reviews                      |                                                                     |                                                  |
-| **14** 05/03   | Urban Futuring Presentation                             |                                                                     | Assignment 07: _New York Cities_                 |
-| **15** 05/10   | Course Retrospective                                    |                                                                     |                                                  |
-
-# Assessable Tasks
-
-###### Assignment 01: Urban Observation, Data Digging     
-    
-+ [Universal Methods of Design, Literature Reviews] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=112) 
-+ [Universal Methods of Design, Secondary Research] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=112) 
-
-###### Assignment 02: Method Exploration
-
-###### Assignment 03: Trackers         
-    
-+ [Universal Methods of Design, Behavioral Mapping] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=18) 
-+ [Universal Methods of Design, Fly-on-the-Wall Observation] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=90) 
-+ [Universal Methods of Design, Shadowing] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=158) 
-
-###### Assignment 04: City Probes     
-
-+ [Univerasl Methods of Design, Cultural Probes] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=54) 
-+ [Universal Methods of Design, Creative Toolkits] (http://site.ebrary.com/lib/newschool/reader.action?docID=10690608&ppg=48) 
-
-###### Assignment 05: Perception Analysis     
-
-###### Assignment 06: Analysis for Design     
-
-###### Assignment 07: New York Cities
-
-+ [NYC FORESIGHT DEPARTMENT - Chris Woebken] (http://chriswoebken.com/NYC-FORESIGHT-DEPARTMENT) 
-+ [Research-and-Development-Methods/90dayreport.pdf at master · arielchuri/Research-and-Development-Methods] (https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Reading/90dayreport.pdf) 
-
-###### Blog Posts
-
- + What is Design Research?
- + Affordances
- + What is primary and secondary research?
- + What is qualitative and quantitative research?
- + What is generative and evaluative research?
-
-#The Parsons Learning Portfolio
-The Parsons Learning Portfolio is an ongoing, cumulative repository for each student’s experience across courses, and across years. It archives individual student’s processes of reflection, productive failure, skills learned, and interdisciplinary connections made, as well as final “finished” work.
-
-The Parsons Learning Portfolio will serve as a bridging mechanism to facilitate conversation and access to projects and writings across the seminar and studio courses. It is within the integrated nature of the courses at Parsons in particular that the Learning Portfolio will be foster an active part of critically reflective learning, thinking, writing and making.
-
-Students are encouraged to maintain a learning portfolio across all of their course work during the course of their studies at Parsons.
-
-# Required Reading / Media 
-Norman, Don: _The Design of Everyday Things_    
-Baty, Steve: _Deconstructing Analysis Techniques_    
-[Reboot | Design Research: What Is It and Why Do It?] (http://reboot.org/2012/02/19/design-research-what-is-it-and-why-do-it/) 
+## Week 01 01/23
+**Introduction and Overview**   
+[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
+## Week 02 01/30
+**Types & Roles of Research**   
+Lois Frankel - _The Complex Field of Research_   
+Steven Chaffee - _Explication_   
+**Assignment:** Explication   
+## Week 03 02/06
+**Artifacts & Affordances**   
+Norman, Don: _The Design of Everyday Things, Chapter 1 + Chapter 2_   
+**Assignment:** Product Survey   
+## Week 04 02/13
+**Context & Observation**   
+Norman, Don: _The Design of Everyday Things, Chapter 3_    
+Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science of Shopping   
+**Assignment:** Interface Mapping   
+## Week 05 02/27
+**Interview & Ethnography**   
+Lois Frankel - _Communicating Design Research Knowledge_   
+Underhill, Paco: _Why We Buy_, Section 2: Walk Like an Egyptian: The Mechanics of Shopping   
+IIT - What People Really Do [Video]   
+**Assignment:** Shopping Observation   
+## Week 06 03/06
+**Analysis & Mapping**   
+Baty, Steve: _Deconstructing Analysis Techniques_   
 Corner, James _The Agency of Mapping_   
+This American Life -_Mapping_ [Podcast]   
+**Assignment:** Ritual Ethnography   
+## Week 07 03/13
+**Prototyping & Testing**   
+Tom Kelly - _Ten Faces of Innovation_, Chapter 2: The Experimenter   
+Terry Winograd - _Bringing Design to Software_, Chapter 10: Cultures of Prototyping (Michael Schrage)   
+**Assignment:** Ritual Mapping   
+## Week 08 03/27
+**Presentation & Critique**   
+**Assignment:** Ritual Redesign   
+## Week 09 04/03
+**Scoping & Co-Design**   
+Liz Saunders - _Convivial Toolbox_, Chapter 3: How It Works: Generative Tools and Techniques   
+Gaver, William: _Cultural Probes and the Value of Uncertainty_   
+North Umbria University - _Design Collaboration [Website]   
+**Assignment:** Project Teams   
+## Week 10 04/10
+**Complexity & Framing**   
+Liz Saunders - _Convivial Toolbox_, Chapter 5: Making the Plan   
+Jamer Hunt - _How to Apply Eames's "Powers of 10" to Real-life Problems_   
+[Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
+Jeremy Alexis - _What is Problem Framing in Design? [Video]   
+**Assignment:** Research Protocol   
+## Week 11 04/17
+**Participation & Facilitation**   
+Liz Saunders - _Convivial Toolbox_ Chapter 6: Gathering Data In The Field   
+**Assignment:** Conduct Research   
+## Week 12 04/24
+**Fictions & Scenarios**   
+Grand, Simon: _Design Fiction, A Method Toolbox_   
+**Assignment:** Analyze Findings   
+## Week 13 05/01
+**Project Work & Review**   
+Mathan Ratinam - _Making an Engaging Presentation_ [Slides]   
+**Assignment:** Synthesize Findings   
+## Week 14 05/08
+**Presentation & Critique**   
+**Assignment:** Final Presentation   
+## Week 15 05/15
+**Process & Reflection**   
+Donald Schon - _The Reflective Practitioner_, Chapter 5: The Structure of Reflection in Action   
+**Assignment:** Final Report   
+# Assessable Tasks
+This course involves a series of short assignments that will be used to assess your understanding of the material covered. In addition, you will be responsible for writing a Final Report and contributing to a Final Presentation. Your participation in class discussion and other activities is also considered extremely important and will affect your final grade.
+# Required Reading / Media
+[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
+Lois Frankel - _The Complex Field of Research_ (available on Canvas)   
+Steven Chaffee - _Explication_(available on Canvas)   
+Norman, Don: _The Design of Everyday Things_    
+http://www.radiolab.org/story/91640-choice/
+Underhill, Paco: _Why We Buy_   
+IIT - What People Really Do [Video]   
+Baty, Steve: _Deconstructing Analysis Techniques_   
+Corner, James _The Agency of Mapping_   
+This American Life -_Mapping_ [Podcast]   
+Tom Kelly - _Ten Faces of Innovation_, Chapter 2: The Experimenter   
+Terry Winograd - _Bringing Design to Software_, Chapter 10: Cultures of Prototyping (Michael Schrage)   
+Liz Saunders - _Convivial Toolbox_   
+Gaver, William: _Cultural Probes and the Value of Uncertainty_   
+North Umbria University - _Design Collaboration [Website]_   
+Jamer Hunt - _How to Apply Eames's "Powers of 10" to Real-life Problems_   
+[Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608)    
+Jeremy Alexis - _What is Problem Framing in Design?_ [Video]   
+Grand, Simon: _Design Fiction, A Method Toolbox_   
+Mathan Ratinam - _Making an Engaging Presentation_ [Slides]   
+Donald Schon - _The Reflective Practitioner_, Chapter 5: The Structure of Reflection in Action   
+[The Social Life of Small Urban Spaces : William H. Whyte : Free Download & Streaming : Internet Archive] (https://archive.org/details/SmallUrbanSpaces)     
+# Recommended Reading 
+Zaccai, Gianfranco: _Art and Technology_   
+Universal methods of design : 100 ways to research complex problems, develop innovative ideas, and design effective solutions    
+[Reboot | Design Research: What Is It and Why Do It?] (http://reboot.org/2012/02/19/design-research-what-is-it-and-why-do-it/)    
 [Candy, Stuart 2011 - Strategic Foresight] (https://www.scribd.com/doc/59578445/Candy-2011-Strategic-Foresight)     
 Dubberly, Hugh: _The Analysis­Synthesis Bridge Model_   
-Gaver, William: _Cultural Probes and the Value of Uncertainty_   
-Grand, Simon: _Design Fiction, A Method Toolbox_    
-Underhill, Paco: _Why We Buy_    
-Zaccai, Gianfranco: _Art and Technology_   
-[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
-[The Social Life of Small Urban Spaces : William H. Whyte : Free Download & Streaming : Internet Archive] (https://archive.org/details/SmallUrbanSpaces)     
-[Universal Methods of Design] (http://site.ebrary.com/lib/newschool/detail.action?docID=10690608&p00=universal+methods+design)
-West, Suzanne: _Working With Style_
-
-# Recommended Reading 
-Ferzoco, Jeff: “The You City” Ascher,     
+West, Suzanne: _Working With Style_   
+Ferzoco, Jeff: “The You City”Ascher,        
 Kate: “The Works: The Anatomy of a City” 
-
 # Materials for class
 + Post-It Notes
 + Colored Markers
@@ -130,15 +146,13 @@ Students’ ability to meet the course’s learning outcomes will be evaluated b
 + attendance in class and the timely completion of assignments
  
 # Final Grade Calculation
-Participation / Attendance / Blog Posts 20%   
-Assignment 01: Urban Observation, Data Digging 5%   
-Assignment 02: Method Exploration 5%   
-Assignment 03: Trackers 5%   
-Assignment 04: City Probes 5%   
-Assignment 05: Perception Analysis 10%   
-Assignment 06: Analysis for Design 10%  
-Assignment 07: New York Cities 40%    
-TOTAL 100%
++ Class Participation: 20%   
++ Product Survey: 5%
++ Interface Mapping: 5%
++ Shopping Observation: 5%
++ Ritual Redesign: 15%
++ Final Presentation (Group): 30%
++ Final Report (Individual): 20%
 
 [Project Grading Rubric] (https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Rubric.md) 
  
