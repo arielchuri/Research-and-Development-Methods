@@ -45,7 +45,7 @@ Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science 
 **Interview & Ethnography**   
 Lois Frankel - _Communicating Design Research Knowledge_   
 Underhill, Paco: _Why We Buy_, Section 2: Walk Like an Egyptian: The Mechanics of Shopping   
-IIT - What People Really Do [Video]   
+RadioLab - _The Trust Engineers_
 **Assignment:** Shopping Observation   
 ## Week 06 03/06
 **Analysis & Mapping**   
@@ -102,7 +102,6 @@ Steven Chaffee - _Explication_(available on Canvas)
 Norman, Don: _The Design of Everyday Things_    
 http://www.radiolab.org/story/91640-choice/
 Underhill, Paco: _Why We Buy_   
-IIT - What People Really Do [Video]   
 Baty, Steve: _Deconstructing Analysis Techniques_   
 Corner, James _The Agency of Mapping_   
 This American Life -_Mapping_ [Podcast]   
