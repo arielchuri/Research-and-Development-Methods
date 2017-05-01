@@ -84,11 +84,11 @@ Grand, Simon: _Design Fiction, A Method Toolbox_
 **Assignment:** Analyze Findings   
 ## Week 13 05/01
 **Project Work & Review**   
-Mathan Ratinam - _Making an Engaging Presentation_ [Slides]   
-**Assignment:** Synthesize Findings   
+Design and Layout
+**Assignment:** Problem Statement   
 ## Week 14 05/08
 **Presentation & Critique**   
-**Assignment:** Final Presentation   
+**Assignment:** Presentation   
 ## Week 15 05/15
 **Process & Reflection**   
 Donald Schon - _The Reflective Practitioner_, Chapter 5: The Structure of Reflection in Action   
