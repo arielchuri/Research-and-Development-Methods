@@ -94,6 +94,9 @@ Donald Schon - _The Reflective Practitioner_, Chapter 5: The Structure of Reflec
 **Assignment:** Final Report   
 # Assessable Tasks
 This course involves a series of short assignments that will be used to assess your understanding of the material covered. In addition, you will be responsible for writing a Final Report and contributing to a Final Presentation. Your participation in class discussion and other activities is also considered extremely important and will affect your final grade.
+
+All assignments are listed on Canvas.
+
 # Required Reading / Media
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
 Lois Frankel - _The Complex Field of Research_ (available on Canvas)   
@@ -220,6 +223,15 @@ Use of Canvas (formerly Blackboard) may be an important resource for this class.
 **Delays**    
 In rare instances, I may be delayed arriving to class.  If I have not arrived by the time class is scheduled to start, you must wait a minimum of thirty minutes for my arrival.  In the event that I will miss class entirely, a sign will be posted at the classroom indicating your assignment for the next class meeting.
 
+**Resources**   
+The university provides many resources to help students achieve academic and artistic excellence. These resources include:
+
++ The University (and associated) Libraries: http://library.newschool.edu
++ The University Learning Center: http://www.newschool.edu/learning-center
++ University Disabilities Service: www.newschool.edu/student-disability-services/
+
+In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
+
 **Academic Integrity**    
 This is the university’s Statement on Academic Integrity: “Plagiarism and cheating of any kind in the course of academic work will not be tolerated.  Academic honesty includes accurate use of quotations, as well as appropriate and explicit citation of sources in instances of paraphrasing and describing ideas, or reporting on research findings or any aspect of the work of others (including that of instructors and other students).  These standards of academic honesty and citation of sources apply to all forms of academic work (examinations, essays, theses, computer work, art and design work, oral presentations, and other projects).”  
 It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others.  Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.  
@@ -229,18 +241,9 @@ Every student at Parsons signs an Academic Integrity Statement as a part of the 
 Plagiarism is the use of another person's words or ideas in any academic work using books, journals, internet postings, or other student papers without proper acknowledgment. For further information on proper acknowledgment and plagiarism, including expectations for paraphrasing source material and proper forms of citation in research and writing, students should consult the Chicago Manual of Style (cf. Turabian, 6th edition). The University Learning Center also provides useful on-line resources to help students understand and avoid plagiarism. See http://www.newschool.edu/admin/writingcenter/.  
 Students must receive prior permission from instructors to submit the same or substantially overlapping material for two different assignments.  Submission of the same work for two assignments without the prior permission of instructors is plagiarism.  
 
-**Guidelines for Studio Assignmen**    
+**Guidelines for Studio Assignments**    
 Work from other visual sources may be imitated or incorporated into studio work if the fact of imitation or incorporation and the identity of the original source are properly acknowledged. There must be no intent to deceive; the work must make clear that it emulates or comments on the source as a source. Referencing a style or concept in otherwise original work does not constitute plagiarism. The originality of studio work that presents itself as “in the manner of” or as playing with “variations on” a particular source should be evaluated by the individual faculty member in the context of a critique.  
 Incorporating ready-made materials into studio work as in a collage, synthesized photograph or paste-up is not plagiarism in the educational context. In the commercial world, however, such appropriation is prohibited by copyright laws and may result in legal consequences.  
-
-**Resources**   
-The university provides many resources to help students achieve academic and artistic excellence. These resources include:
-
-+ The University (and associated) Libraries: http://library.newschool.edu
-+ The University Learning Center: http://www.newschool.edu/learning-center
-+ University Disabilities Service: www.newschool.edu/student-disability-services/
-
-In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
 
 **Electronic Devices**    
 Use of electronic devices (phones, tablets, laptops) is permitted when the device is being used in relation to the course's work. All other uses are prohibited in the classroom and devices should be turned off before class starts.
