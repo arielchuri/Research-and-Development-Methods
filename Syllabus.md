@@ -131,6 +131,9 @@ Kate: “The Works: The Anatomy of a City”
 + Large paper (11"x17")
 + Dry erase marker & cloth to erase
 
+# Making Center
+The Making Center is a constellation of shops, labs, and open workspaces that are situated across the New School to help students express their ideas in a variety of materials and methods.  We have resources to help support woodworking, metalworking, ceramics and pottery work, photography and film, textiles, printmaking, 3D printing, manual and CNC machining, and more. A staff of technicians and student workers provide expertise and maintain the different shops and labs.  Safety is a primary concern, so each area has policies for access, training, and etiquette that students and faculty should be familiar with. Many areas require specific orientations or trainings before access is granted.  Detailed information about the resources available, as well as schedules, trainings, and policies can be found at resources.parsons.edu. 
+
 # Grading and Evaluation
 Students’ ability to meet the course’s learning outcomes will be evaluated based on the following criteria:
 
@@ -230,8 +233,14 @@ Students must receive prior permission from instructors to submit the same or su
 Work from other visual sources may be imitated or incorporated into studio work if the fact of imitation or incorporation and the identity of the original source are properly acknowledged. There must be no intent to deceive; the work must make clear that it emulates or comments on the source as a source. Referencing a style or concept in otherwise original work does not constitute plagiarism. The originality of studio work that presents itself as “in the manner of” or as playing with “variations on” a particular source should be evaluated by the individual faculty member in the context of a critique.  
 Incorporating ready-made materials into studio work as in a collage, synthesized photograph or paste-up is not plagiarism in the educational context. In the commercial world, however, such appropriation is prohibited by copyright laws and may result in legal consequences.  
 
-**Student Disability Service**    
-In keeping with the University’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately.  All conversations will be kept confidential.  Students requesting any accommodations will also need to meet with Jason Luchs in the office of Student Disability Services, who will conduct an intake, and if appropriate, provide an academic accommodation notification letter to you to bring to me.  At that point I will review the letter with you and discuss these accommodations in relation to this course.  Mr. Luchs’ office is located in 80 Fifth Avenue, Room 323 (3rd floor). His direct line is (212) 229-5626 x3135.  You may also access more information through the University’s web site at http://www.newschool.edu/studentservices/disability/.  
+# Resources
+The university provides many resources to help students achieve academic and artistic excellence. These resources include:
+
+    • The University (and associated) Libraries: http://library.newschool.edu
+    • The University Learning Center: http://www.newschool.edu/learning-center
+    • University Disabilities Service: www.newschool.edu/student-disability-services/
+
+In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
 
 **Electronic Devices**    
 Use of electronic devices (phones, tablets, laptops) is permitted when the device is being used in relation to the course's work. All other uses are prohibited in the classroom and devices should be turned off before class starts.
