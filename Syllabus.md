@@ -2,8 +2,9 @@
 
 STRATEGIC DESIGN AND MANAGEMENT PARSONS THE NEW SCHOOL FOR DESIGN
 
-Spring 2017, PSDS 2100  
-B CRN 4783 Mondays 3:50pm, 66 Fifth Ave. #603
+Spring 2018, PSDS 2100  
+H CRN 5432 Mondays 3:50pm, 2 W 13th St. #1100  
+B CRN 3162 Tuesdays 3:50pm, 6 E 16th St. #904  
 
 **Instructor: Ariel Churi** churia@newschool.edu Office hours by appointment
 
@@ -24,72 +25,74 @@ By the successful completion of this course, students will be able, at an introd
 1. DEMONSTRATE COMPETENCE IN working as a team member.
 
 # Course Outline
-## Week 01 01/23
-**Introduction and Overview**   
-[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
-## Week 02 01/30
+## Week 01
+Introduction and Overview   
+Mindmapping      
+**Assignment:** Personal One Sheet   
+**Assignment:** Class Information Diagram   
+## Week 02
 **Types & Roles of Research**   
 Lois Frankel - _The Complex Field of Research_   
 Steven Chaffee - _Explication_   
 **Assignment:** Explication   
-## Week 03 02/06
+## Week 03
 **Artifacts & Affordances**   
 Norman, Don: _The Design of Everyday Things, Chapter 1 + Chapter 2_   
-**Assignment:** Product Survey   
-## Week 04 02/13
+[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
+## Week 04
 **Context & Observation**   
 Norman, Don: _The Design of Everyday Things, Chapter 3_    
 Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science of Shopping   
 **Assignment:** Interface Mapping   
-## Week 05 02/27
+## Week 05
 **Interview & Ethnography**   
 Lois Frankel - _Communicating Design Research Knowledge_   
 Underhill, Paco: _Why We Buy_, Section 2: Walk Like an Egyptian: The Mechanics of Shopping   
 RadioLab - _The Trust Engineers_
 **Assignment:** Shopping Observation   
-## Week 06 03/06
+## Week 06
 **Analysis & Mapping**   
 Baty, Steve: _Deconstructing Analysis Techniques_   
 Corner, James _The Agency of Mapping_   
 This American Life -_Mapping_ [Podcast]   
 **Assignment:** Ritual Ethnography   
-## Week 07 03/13
+## Week 07
 **Prototyping & Testing**   
 Tom Kelly - _Ten Faces of Innovation_, Chapter 2: The Experimenter   
 Terry Winograd - _Bringing Design to Software_, Chapter 10: Cultures of Prototyping (Michael Schrage)   
 **Assignment:** Ritual Mapping   
-## Week 08 03/27
+## Week 08
 **Presentation & Critique**   
 **Assignment:** Ritual Redesign   
-## Week 09 04/03
+## Week 09
 **Scoping & Co-Design**   
 Liz Saunders - _Convivial Toolbox_, Chapter 3: How It Works: Generative Tools and Techniques   
 Gaver, William: _Cultural Probes and the Value of Uncertainty_   
 North Umbria University - _Design Collaboration [Website]   
 **Assignment:** Project Teams   
-## Week 10 04/10
+## Week 10
 **Complexity & Framing**   
 Liz Saunders - _Convivial Toolbox_, Chapter 5: Making the Plan   
 Jamer Hunt - _How to Apply Eames's "Powers of 10" to Real-life Problems_   
 [Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
 Jeremy Alexis - _What is Problem Framing in Design? [Video]   
 **Assignment:** Research Protocol   
-## Week 11 04/17
+## Week 11
 **Participation & Facilitation**   
 Liz Saunders - _Convivial Toolbox_ Chapter 6: Gathering Data In The Field   
 **Assignment:** Conduct Research   
-## Week 12 04/24
+## Week 12
 **Fictions & Scenarios**   
 Grand, Simon: _Design Fiction, A Method Toolbox_   
 **Assignment:** Analyze Findings   
-## Week 13 05/01
+## Week 13
 **Project Work & Review**   
 Design and Layout
 **Assignment:** Problem Statement   
-## Week 14 05/08
+## Week 14
 **Presentation & Critique**   
 **Assignment:** Presentation   
-## Week 15 05/15
+## Week 15
 **Process & Reflection**   
 Donald Schon - _The Reflective Practitioner_, Chapter 5: The Structure of Reflection in Action   
 **Assignment:** Final Report   
