@@ -233,7 +233,7 @@ Students must receive prior permission from instructors to submit the same or su
 Work from other visual sources may be imitated or incorporated into studio work if the fact of imitation or incorporation and the identity of the original source are properly acknowledged. There must be no intent to deceive; the work must make clear that it emulates or comments on the source as a source. Referencing a style or concept in otherwise original work does not constitute plagiarism. The originality of studio work that presents itself as “in the manner of” or as playing with “variations on” a particular source should be evaluated by the individual faculty member in the context of a critique.  
 Incorporating ready-made materials into studio work as in a collage, synthesized photograph or paste-up is not plagiarism in the educational context. In the commercial world, however, such appropriation is prohibited by copyright laws and may result in legal consequences.  
 
-# Resources
+**Resources**   
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 
 + The University (and associated) Libraries: http://library.newschool.edu
