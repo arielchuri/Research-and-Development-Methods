@@ -26,15 +26,11 @@ By the successful completion of this course, students will be able, at an introd
 
 # Course Outline
 ## Week 01
-Introduction and Overview   
+**Introduction and Overview***   
 Mindmapping      
-**Assignment:** Personal One Sheet   
-**Assignment:** Class Information Diagram   
+**Assignment:*** Personal One Sheet   
 ## Week 02
-**Types & Roles of Research**   
-Lois Frankel - _The Complex Field of Research_   
-Steven Chaffee - _Explication_   
-**Assignment:** Explication   
+**Assignment:** Class Information Diagram   
 ## Week 03
 **Artifacts & Affordances**   
 Norman, Don: _The Design of Everyday Things, Chapter 1 + Chapter 2_   
