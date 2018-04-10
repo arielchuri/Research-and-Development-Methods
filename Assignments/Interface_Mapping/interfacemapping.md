@@ -19,47 +19,47 @@ Upload a PDF of your product drawing to both Canvas and Google drive before clas
 Products & Features
 Select one product and design the controls for all seven features (or substitute new ones).
 
-CLOCK RADIO:
-Radio tuner
-Tape player
-CD player
-Telephone
-Answering Machine
-Clock with Alarm
-Reading Lamp
+## CLOCK RADIO:
++ Radio tuner
++ Tape player
++ CD player
++ Telephone
++ Answering Machine
++ Clock with Alarm
++ Reading Lamp
 
-AIRLINE SEAT:
-Reclining back
-Tray table
-In-flight phone
-Audio / video player
-Attendant call button
-Reading light
-Air vent
+## AIRLINE SEAT:
++ Reclining back
++ Tray table
++ In-flight phone
++ Audio / video player
++ Attendant call button
++ Reading light
++ Air vent
 
-PRINTER/SCANNER:
-Paper tray
-Document feeder
-Print exit door
-Copier / scanner
-Fax machine
-USB and SD inputs
-Display screen
+## PRINTER/SCANNER:
++ Paper tray
++ Document feeder
++ Print exit door
++ Copier / scanner
++ Fax machine
++ USB and SD inputs
++ Display screen
 
-UNIVERSAL REMOTE:
-Television controls
-Stereo controls
-DVD controls
-VCR controls
-Radio tuner
-Web browser
-Ergonomic shape
+## UNIVERSAL REMOTE:
++ Television controls
++ Stereo controls
++ DVD controls
++ VCR controls
++ Radio tuner
++ Web browser
++ Ergonomic shape
 
-VACUUM CLEANER:
-Carpet attachment
-Crevice tool
-Brush nozzle
-Removable bag
-Retractable cord
-Driving light
-Handheld usability
+## VACUUM CLEANER:
++ Carpet attachment
++ Crevice tool
++ Brush nozzle
++ Removable bag
++ Retractable cord
++ Driving light
++ Handheld usability
