@@ -10,12 +10,12 @@ So what is contributing to this decline? What is the public perception of the NY
 Capture their responses using paper, pen, and writing tools, or audio recording device if you have asked for 
 permission to record. Some strategies for your interview process: 
 
-+ Intro ­ start a conversation by asking about something familiar or nearby 
-+ Clarification ­ ask the person to clearly explain why they think what they think about the bus.  
-+ Reflection ­ ask them to remember when a memorable instance happened, was different, etc. 
-+ Encouragement ­ let them know when you think something is interesting, to get them to elaborate. 
-+ Challenge ­ say something to challenge them to really think about their motives. 
-+ Summarize ­ feed back what you think you heard to be sure you understood them correctly. 
++ **Intro** ­ start a conversation by asking about something familiar or nearby 
++ **Clarification** ­ ask the person to clearly explain why they think what they think about the bus.  
++ **Reflection** ­ ask them to remember when a memorable instance happened, was different, etc. 
++ **Encouragement** ­ let them know when you think something is interesting, to get them to elaborate. 
++ **Challenge** ­ say something to challenge them to really think about their motives. 
++ **Summarize** ­ feed back what you think you heard to be sure you understood them correctly. 
  
 Photograph your experience on the bus, including your respondents only if they consent to being 
 photographed. 
