@@ -83,9 +83,9 @@ Grand, Simon: _Design Fiction, A Method Toolbox_
 **Assignment:** Analyze Findings   
 ## Week 13
 **Assignment:** Perception Analysis 1   
-**Reading:** Creswell, Research Design, p. 178-183 https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Media/creswell_research_design_178_183.pdf
-**Video:** Collecting Primary Data Using a Questionnaire https://www.youtube.com/watch?v=fJsU9Sph-QE
-**Video:** Unstructured, Semi-Structured and Structured Interviews https://www.youtube.com/watch?v=gzwGEBJGz8s
+**Reading:** Creswell, Research Design, p. 178-183 https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Media/creswell_research_design_178_183.pdf   
+**Video:** Collecting Primary Data Using a Questionnaire https://www.youtube.com/watch?v=fJsU9Sph-QE    
+**Video:** Unstructured, Semi-Structured and Structured Interviews https://www.youtube.com/watch?v=gzwGEBJGz8s   
 ## Week 14
 **Classwork:** Research Plan
 **Assignment:*** Perception Analysis 2
