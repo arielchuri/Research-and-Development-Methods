@@ -5,6 +5,7 @@ So what is contributing to this decline? What is the public perception of the NY
 1. In groups of two, conduct a brief secondary research survey to learn about the context; what is currently happening with NYC’s bus system? What are other cities doing with their buses? What academic studies have been done on bus use? What precedent design work has been done around bus systems?  
  
 2. Write a questionnaire, which you’ll use to conduct interviews. Use open ended questions to allow the respondent to come up with their own answers. What specific questions are puzzling about this context? What can you not learn from observation? What information could offer insight on the perception of buses in New York? 
+   Your documentation will need include justification for your questions. How did you create your questions? What strategies did you use?
  
 3. Interview 2 people each (4 per group) about New York’s bus system. 
 Capture their responses using paper, pen, and writing tools, or audio recording device if you have asked for 
