@@ -1,7 +1,7 @@
 # Perception Analysis 2
 Analysis and synthesis are key to interpreting collected data in design research scenarios. Though designers are sometimes able to identify key insights through intuition during research, tools for analysis offer a comprehensive method for distilling and extracting important information to be used in a design response. 
  
-Form groups of 6­7 people. Using the data accumulated by you and the rest of the group, as closely as is possible, go through the following steps (skipping 3 and 5) of analysis and synthesis as described by Steve Baty in 'Deconstructing Analysis Techniques'. 
+Form groups of 6-7 people. Using the data accumulated by you and the rest of the group, as closely as is possible, go through the following steps (skipping 3 and 5) of analysis and synthesis as described by Steve Baty in *Deconstructing Analysis Techniques*. 
  
 1. Deconstruction 
 2. Manipulation 
