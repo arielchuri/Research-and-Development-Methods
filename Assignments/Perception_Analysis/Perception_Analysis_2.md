@@ -14,6 +14,6 @@ Form groups of 6-7 people. Using the data accumulated by you and the rest of the
  
 You should distill the data into useful design information and insights about the MTA bus system and users. Document each step, and consider the outcome of your synthesis as a brief for design concept development.  
  
-Once you’ve finished, work individually to come up with a new breakthrough design for the MTA bus system. Create a PDF documenting your interviews/bus photos, each analysis step, and your new breakthrough design. 
+Once you’ve finished, work individually to come up with a new breakthrough design for the MTA bus system. Create a PDF documenting your interviews/bus photos, each analysis step, and your new breakthrough design. Include the questions you developed for the interview and a paragraph explaining why you chose these questions.
  
-Your personal analysis­synthesis and design PDF must be uploaded to Canvas and the class share folder before the following class. 
+Your personal analysis-synthesis and design PDF must be uploaded to Canvas and the class share folder before the following class. 
