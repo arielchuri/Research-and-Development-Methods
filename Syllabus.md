@@ -87,8 +87,8 @@ Grand, Simon: _Design Fiction, A Method Toolbox_
 **Video:** Collecting Primary Data Using a Questionnaire https://www.youtube.com/watch?v=fJsU9Sph-QE    
 **Video:** Unstructured, Semi-Structured and Structured Interviews https://www.youtube.com/watch?v=gzwGEBJGz8s   
 ## Week 14
-**Classwork:** Research Plan
-**Assignment:*** Perception Analysis 2
+**Classwork:** Research Plan   
+**Assignment:*** Perception Analysis 2   
 ## Week 15
 **Process & Reflection**   
 # Assessable Tasks
