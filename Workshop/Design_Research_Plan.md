@@ -11,3 +11,5 @@ We need create a plan of in-depth research to create our final design. Assuming 
 
 Produce a gantt chart (google sheet) and google doc to outline your plan.
 Be as detailed as possible in the time allowed. Start from a general outline and then begin to fill in the details.
+
+Create shared documents for your teammates to work on in the class Google Drive folder.
