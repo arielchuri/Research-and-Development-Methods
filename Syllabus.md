@@ -28,59 +28,39 @@ By the successful completion of this course, students will be able, at an introd
 ## Week 01
 **Introduction and Overview***   
 Mindmapping      
-**Assignment:*** Personal One Sheet   
 ## Week 02
-**Assignment:** Class Information Diagram   
+**Assignment:*** Personal One Sheet   
 ## Week 03
-**Artifacts & Affordances**   
-Norman, Don: _The Design of Everyday Things, Chapter 1 + Chapter 2_   
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
+**Assignment:** Class Information Diagram   
 ## Week 04
-**Context & Observation**   
-Norman, Don: _The Design of Everyday Things, Chapter 3_    
-Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science of Shopping   
-**Assignment:** Interface Mapping   
-## Week 05
-**Interview & Ethnography**   
 Lois Frankel - _Communicating Design Research Knowledge_   
-Underhill, Paco: _Why We Buy_, Section 2: Walk Like an Egyptian: The Mechanics of Shopping   
+**Assignment:** Student Interviews   
+## Week 05
 RadioLab - _The Trust Engineers_
-**Assignment:** Shopping Observation   
+**Assignment:** Parsons Onboarding   
 ## Week 06
-**Analysis & Mapping**   
-Baty, Steve: _Deconstructing Analysis Techniques_   
-Corner, James _The Agency of Mapping_   
-This American Life -_Mapping_ [Podcast]   
-**Assignment:** Ritual Ethnography   
-## Week 07
-**Prototyping & Testing**   
-Tom Kelly - _Ten Faces of Innovation_, Chapter 2: The Experimenter   
-Terry Winograd - _Bringing Design to Software_, Chapter 10: Cultures of Prototyping (Michael Schrage)   
-**Assignment:** Ritual Mapping   
-## Week 08
-**Presentation & Critique**   
-**Assignment:** Ritual Redesign   
-## Week 09
-**Scoping & Co-Design**   
-Liz Saunders - _Convivial Toolbox_, Chapter 3: How It Works: Generative Tools and Techniques   
-Gaver, William: _Cultural Probes and the Value of Uncertainty_   
-North Umbria University - _Design Collaboration [Website]   
-**Assignment:** Project Teams   
-## Week 10
-**Complexity & Framing**   
-Liz Saunders - _Convivial Toolbox_, Chapter 5: Making the Plan   
-Jamer Hunt - _How to Apply Eames's "Powers of 10" to Real-life Problems_   
 [Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
-Jeremy Alexis - _What is Problem Framing in Design? [Video]   
-**Assignment:** Research Protocol   
+**Assignment:** Sustainability: Phase 1
+## Week 07
+This American Life -_Mapping_ [Podcast]   
+[The Social Life of Small Urban Spaces](https://www.youtube.com/watch?v=z_-nBr2MuBk)
+**Assignment:** Sustainability: Phase 2
+## Week 08
+Baty, Steve: _Deconstructing Analysis Techniques_   
+**Assignment:** Sustainability: Phase 3
+## Week 09
+[Nova - *Prediction by the numbers*](http://www.pbs.org/wgbh/nova/physics/prediction-numbers.html)
+**Assignment:** Sustainability: Phase 4
+## Week 10
+Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science of Shopping   
+**Assignment:** Sustainability: Phase 5
 ## Week 11
-**Participation & Facilitation**   
-Liz Saunders - _Convivial Toolbox_ Chapter 6: Gathering Data In The Field   
-**Assignment:** Conduct Research   
+Norman, Don: _The Design of Everyday Things, Chapter 1   
+**Assignment:** Shopper Shadowing   
 ## Week 12
-**Fictions & Scenarios**   
-Grand, Simon: _Design Fiction, A Method Toolbox_   
-**Assignment:** Analyze Findings   
+Norman, Don: _The Design of Everyday Things, Chapter 2   
+**Assignment:** Interface Mapping   
 ## Week 13
 **Assignment:** Perception Analysis 1   
 **Reading:** Creswell, Research Design, p. 178-183 https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Media/creswell_research_design_178_183.pdf   
