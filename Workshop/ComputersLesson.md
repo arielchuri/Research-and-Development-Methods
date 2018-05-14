@@ -1,6 +1,6 @@
 # Computer Lesson
 ## Software
-[Text Editor: BBEdit](https://www.barebones.com/products/bbedit/download.html)
+[Text Editor: BBEdit](https://www.barebones.com/products/bbedit/download.html)   
 [Markdown Editor: Typora](https://typora.io)   
 [FTP Program: Cyberduck](https://cyberduck.io)
 ## Markdown
