@@ -1,7 +1,10 @@
 # Computer Lesson
+## Software
+[Text Editor: BBEdit](https://www.barebones.com/products/bbedit/download.html)
+[Markdown Editor: Typora](https://typora.io)   
+[FTP Program: Cyberduck](https://cyberduck.io)
 ## Markdown
 [Markdown](https://daringfireball.net/projects/markdown/syntax)
-[Markdown Editor: Typora](https://typora.io)   
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
 ## Exporting to HTML
 ## Web Servers
@@ -25,5 +28,5 @@ You can now upload files and folders.
 - Now create a folder to hold your site by typing _mkdir yourSiteFoler_
 - Move into the folder you created with _cd yourSiteFoler_
 - Now you can use the *put* command. *put -R mySiteFolder. Your site is now online. and available at the http://b.parsons.edu/~yourUserName/yourSiteFolderi*
-## A-frame
+## Publishing 360° photo/video with A-frame
 [A-Frame](https://aframe.io)
