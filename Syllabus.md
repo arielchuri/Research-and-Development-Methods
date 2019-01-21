@@ -2,9 +2,9 @@
 
 STRATEGIC DESIGN AND MANAGEMENT PARSONS THE NEW SCHOOL FOR DESIGN
 
-Spring 2018, PSDS 2100  
-H CRN 5432 Mondays 3:50pm, 2 W 13th St. #1100  
-B CRN 3162 Tuesdays 3:50pm, 6 E 16th St. #904  
+Spring 2019, PSDS 2100  
+C CRN 4234 Mondays 9:00pm, 6 East 16th Street, Rm. 601   
+D CRN 2749 Mondays 12:10, 6 E 16th St. #611  
 
 **Instructor: Ariel Churi** churia@newschool.edu Office hours by appointment
 
@@ -27,12 +27,14 @@ By the successful completion of this course, students will be able, at an introd
 # Course Outline
 ## Week 01
 **Introduction and Overview***   
-Mindmapping      
-## Week 02
-**Assignment:*** Personal One Sheet   
-## Week 03
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
-**Assignment:** Class Information Diagram   
+Mindmapping      
+In-Class Interviews   
+## Week 02
+**Assignment:*** In-Class Interview Findings   
+**Reading:** Underhill, Paco: _Why We Buy_   
+## Week 03
+**Assignment:** Shopper Shadowing   
 ## Week 04
 Lois Frankel - _Communicating Design Research Knowledge_   
 **Assignment:** Student Interviews   
@@ -57,7 +59,6 @@ Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science 
 **Assignment:** Sustainability: Phase 5
 ## Week 11
 Norman, Don: _The Design of Everyday Things, Chapter 1   
-**Assignment:** Shopper Shadowing   
 ## Week 12
 Norman, Don: _The Design of Everyday Things, Chapter 2   
 **Assignment:** Interface Mapping   
