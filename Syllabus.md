@@ -26,24 +26,24 @@ By the successful completion of this course, students will be able, at an introd
 
 # Course Outline
 ## Week 01
-**Introduction and Overview***   
-[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
+**Introduction and Overview**   
 Mindmapping      
 In-Class Interviews   
 ## Week 02
 **Assignment:*** In-Class Interview Findings   
 **Reading:** Underhill, Paco: _Why We Buy_   
+[Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
 ## Week 03
 **Assignment:** Shopper Shadowing   
+**Reading:** Lois Frankel - _Communicating Design Research Knowledge_   
 ## Week 04
-Lois Frankel - _Communicating Design Research Knowledge_   
 **Assignment:** Student Interviews   
 ## Week 05
 RadioLab - _The Trust Engineers_
 **Assignment:** Parsons Onboarding   
 ## Week 06
 [Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
-**Assignment:** Sustainability: Phase 1
+**Assignment:** Sustainability: Phase x
 ## Week 07
 This American Life -_Mapping_ [Podcast]   
 [The Social Life of Small Urban Spaces](https://www.youtube.com/watch?v=z_-nBr2MuBk)
