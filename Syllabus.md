@@ -35,7 +35,8 @@ In-Class Interviews
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
 ## Week 03
 **Assignment:** Shopper Shadowing   
-**Reading:** Lois Frankel - _Communicating Design Research Knowledge_   
+**Reading:** Lois Frankel - _Communicating Design Research Knowledge**   
+**Reading:** Universal Methods of Design: 6, 42, 57, 76
 ## Week 04
 **Assignment:** Student Interviews   
 ## Week 05
