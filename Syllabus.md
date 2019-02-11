@@ -30,7 +30,7 @@ By the successful completion of this course, students will be able, at an introd
 Mindmapping      
 In-Class Interviews   
 ## Week 02
-**Assignment:*** In-Class Interview Findings   
+**Assignment:** In-Class Interview Findings   
 **Reading:** Underhill, Paco: _Why We Buy_   
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
 ## Week 03
@@ -38,16 +38,22 @@ In-Class Interviews
 **Reading:** Lois Frankel - _Communicating Design Research Knowledge**   
 **Reading:** Universal Methods of Design: 6, 42, 57, 76
 ## Week 04
-**Assignment:** Student Interviews   
+**Assignment:** Urban Observation & Data Digging   
+**Media:**    
+- This American Life: Mapping   
+- The Social Life of Small Urban Spaces   
+- The Agency of Mapping
+- Design Research, What is it and why we do it.   
 ## Week 05
-RadioLab - _The Trust Engineers_
 **Assignment:** Parsons Onboarding   
+**Media:**   
+RadioLab - _The Trust Engineers_
+Problem Framing
+The Design of Everyday Things; Chapters 1 & 2
 ## Week 06
 [Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
 **Assignment:** Sustainability: Phase x
 ## Week 07
-This American Life -_Mapping_ [Podcast]   
-[The Social Life of Small Urban Spaces](https://www.youtube.com/watch?v=z_-nBr2MuBk)
 **Assignment:** Sustainability: Phase 2
 ## Week 08
 Baty, Steve: _Deconstructing Analysis Techniques_   
@@ -59,9 +65,7 @@ Baty, Steve: _Deconstructing Analysis Techniques_
 Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science of Shopping   
 **Assignment:** Sustainability: Phase 5
 ## Week 11
-Norman, Don: _The Design of Everyday Things, Chapter 1   
 ## Week 12
-Norman, Don: _The Design of Everyday Things, Chapter 2   
 **Assignment:** Interface Mapping   
 ## Week 13
 **Assignment:** Perception Analysis 1   
@@ -76,7 +80,9 @@ Norman, Don: _The Design of Everyday Things, Chapter 2
 # Assessable Tasks
 This course involves a series of short assignments that will be used to assess your understanding of the material covered. In addition, you will be responsible for writing a Final Report and contributing to a Final Presentation. Your participation in class discussion and other activities is also considered extremely important and will affect your final grade.
 
-All assignments are listed on Canvas.
+All assignments are listed on Canvas.   
+
+The writing style guide for all Parsons classes is the Chicago Manual of Style.   
 
 # Required Reading / Media
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
@@ -198,8 +204,8 @@ Class participation is an essential part of class and includes: keeping up with 
 **Attendance**    
 Faculty members may fail any student who is absent for a significant portion of class time. A significant portion of class time is defined as three absences for classes that meet once per week and four absences for classes that meet two or more times per week. During intensive summer sessions a significant portion of class time is defined as two absences. Lateness or early departure from class may also translate into one full absence.
 
-**Canvas (formerly Blackboard)**    
-Use of Canvas (formerly Blackboard) may be an important resource for this class. Students should check it for announcements before coming to class each week.
+**Canvas**    
+Use of Canvas may be an important resource for this class. Students should check it for announcements before coming to class each week.
 
 **Delays**    
 In rare instances, I may be delayed arriving to class.  If I have not arrived by the time class is scheduled to start, you must wait a minimum of thirty minutes for my arrival.  In the event that I will miss class entirely, a sign will be posted at the classroom indicating your assignment for the next class meeting.
