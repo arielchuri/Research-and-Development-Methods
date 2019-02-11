@@ -45,14 +45,14 @@ In-Class Interviews
 - The Agency of Mapping
 - Design Research, What is it and why we do it.   
 ## Week 05
-**Assignment:** Parsons Onboarding   
+**Assignment:** Interface Mapping 01   
 **Media:**   
 RadioLab - _The Trust Engineers_
 Problem Framing
 The Design of Everyday Things; Chapters 1 & 2
 ## Week 06
 [Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
-**Assignment:** Sustainability: Phase x
+**Assignment:** Interface Mapping 02    
 ## Week 07
 **Assignment:** Sustainability: Phase 2
 ## Week 08
