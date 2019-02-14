@@ -54,10 +54,10 @@ The Design of Everyday Things; Chapters 1 & 2
 [Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
 **Assignment:** Interface Mapping 02    
 ## Week 07
-**Assignment:** Sustainability: Phase 2
+**Assignment:** Sustainability: Phase 1
 ## Week 08
 Baty, Steve: _Deconstructing Analysis Techniques_   
-**Assignment:** Sustainability: Phase 3
+**Assignment:** Sustainability: Phase 2
 ## Week 09
 [Nova - *Prediction by the numbers*](http://www.pbs.org/wgbh/nova/physics/prediction-numbers.html)
 **Assignment:** Sustainability: Phase 4
