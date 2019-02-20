@@ -2,7 +2,7 @@ Read The Design of Everyday Things, Chapter 1
 
 Choose one of the five products below (each one will present different opportunities and challenges).
 Your product should have at least seven features (use the ones listed or make reasonable substitutions).
-Create a cardboard prototype with the controls drawn on. Take photographs and combine them into a PDF.
+Create a paper prototype in phase 1 and a cardboard prototype with the controls drawn on in phase 2. Take photographs and combine them into a PDF.
 Justify why your interface design is desirable and easy to use (use call-outs pointing to each feature). 
 
 The model should be as close to actual size as possible.
