@@ -47,17 +47,18 @@ In-Class Interviews
 ## Week 05
 **Assignment:** Interface Mapping 01   
 **Media:**   
-RadioLab - _The Trust Engineers_
-Problem Framing
-The Design of Everyday Things; Chapters 1 & 2
+RadioLab - _The Trust Engineers_   
+Problem Framing   
+The Design of Everyday Things; Chapters 1 & 2   
 ## Week 06
-[Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
 **Assignment:** Interface Mapping 02    
+**Reading:**[Universal Methods of Design](http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608)   
 ## Week 07
-**Assignment:** Sustainability: Phase 1
+**Assignment:** 
+** Reading:** [The Art of Design Research (and Why It Matters)](https://www.theatlantic.com/entertainment/archive/2011/05/the-art-of-design-research-and-why-it-matters/239561/)   
 ## Week 08
-Baty, Steve: _Deconstructing Analysis Techniques_   
-**Assignment:** Sustainability: Phase 2
+**Reading:** **Baty, Steve: _Deconstructing Analysis Techniques_   
+**Assignment:** Sustainability: Phase 2   
 ## Week 09
 [Nova - *Prediction by the numbers*](http://www.pbs.org/wgbh/nova/physics/prediction-numbers.html)
 **Assignment:** Sustainability: Phase 4
