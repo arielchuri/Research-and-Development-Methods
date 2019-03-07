@@ -55,7 +55,7 @@ The Design of Everyday Things; Chapters 1 & 2
 **Reading:**[Universal Methods of Design](http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608)   
 ## Week 07
 **Assignment:** Ritual Routine Redesign Part 1: Inquire   
-** Reading:** [The Art of Design Research (and Why It Matters)](https://www.theatlantic.com/entertainment/archive/2011/05/the-art-of-design-research-and-why-it-matters/239561/)   
+**Reading:** [The Art of Design Research (and Why It Matters)](https://www.theatlantic.com/entertainment/archive/2011/05/the-art-of-design-research-and-why-it-matters/239561/)   
 ## Week 08
 **Reading:** **Baty, Steve: _Deconstructing Analysis Techniques_   
 **Assignment:** Sustainability: Phase 2   
