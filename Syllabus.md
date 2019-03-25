@@ -142,7 +142,7 @@ Students’ ability to meet the course’s learning outcomes will be evaluated b
 + improvement in the students’ writing, critical reading and problem-solving abilities
 + quality of work as evidenced in in-class exercises, drafts, final assignments, and the learning portfolio
 + attendance in class and the timely completion of assignments
- 
+
 # Final Grade Calculation
 + Class Participation: 20%   
 + Product Survey: 5%
@@ -153,7 +153,7 @@ Students’ ability to meet the course’s learning outcomes will be evaluated b
 + Final Report (Individual): 20%
 
 [Project Grading Rubric] (https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Rubric.md) 
- 
+
 # Grading Standards
 
 **A  [4.0; 96–100%]**    
