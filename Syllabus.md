@@ -43,7 +43,7 @@ In-Class Interviews
 - This American Life: Mapping   
 - The Social Life of Small Urban Spaces   
 - The Agency of Mapping
-- Design Research, What is it and why we do it.   
+- [The Art of Design Research (and Why It Matters)](https://www.theatlantic.com/entertainment/archive/2011/05/the-art-of-design-research-and-why-it-matters/239561/)   
 ## Week 05
 **Assignment:** Interface Mapping 01   
 **Media:**   
@@ -54,20 +54,26 @@ The Design of Everyday Things; Chapters 1 & 2
 **Assignment:** Interface Mapping 02    
 **Reading:**[Universal Methods of Design](http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608)   
 ## Week 07
-**Assignment:** Ritual Routine Redesign Part 1: Inquire   
-**Reading:** [The Art of Design Research (and Why It Matters)](https://www.theatlantic.com/entertainment/archive/2011/05/the-art-of-design-research-and-why-it-matters/239561/)   
+**Assignment:** Interface Mapping Final    
+**Media:**   
+- When to use Which User-Experience Methods   
+- Creswell, Design Research Excerpt   
 ## Week 08
-**Reading:** **Baty, Steve: _Deconstructing Analysis Techniques_   
-**Assignment:** Sustainability: Phase 2   
+**Assignment:** Ritual Routine Redesign Part 1: Inquire   
+**Media:**   
+- Design Ethnography   
+- Empathy on the Edge   
+- Ethnography Primer   
 ## Week 09
+**Assignment:** Ritual Routine Redesign Part 2: Interpret   
 [Nova - *Prediction by the numbers*](http://www.pbs.org/wgbh/nova/physics/prediction-numbers.html)
-**Assignment:** Sustainability: Phase 4
 ## Week 10
-Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science of Shopping   
-**Assignment:** Sustainability: Phase 5
+**Assignment:** Ritual Routine Redesign Part 3: Innovate   
+**Media:** Deconstructing Analysis Methods   
 ## Week 11
+**Assignment:** Ritual Routine Redesign Presentation   
 ## Week 12
-**Assignment:** Interface Mapping   
+**Assignment:** Sustainability   
 ## Week 13
 **Assignment:** Perception Analysis 1   
 **Reading:** Creswell, Research Design, p. 178-183 https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Media/creswell_research_design_178_183.pdf   
