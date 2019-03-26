@@ -66,24 +66,25 @@ The Design of Everyday Things; Chapters 1 & 2
 - Ethnography Primer   
 ## Week 09
 **Assignment:** Ritual Routine Redesign Part 2: Interpret   
-[Nova - *Prediction by the numbers*](http://www.pbs.org/wgbh/nova/physics/prediction-numbers.html)
 ## Week 10
 **Assignment:** Ritual Routine Redesign Part 3: Innovate   
-**Media:** Deconstructing Analysis Methods   
+**Media:**
+Deconstructing Analysis Methods   
+[Nova - *Prediction by the numbers*](http://www.pbs.org/wgbh/nova/physics/prediction-numbers.html)   
 ## Week 11
-**Assignment:** Ritual Routine Redesign Presentation   
+**Final:** New York Cities   
+Context, Secondary research, primary research, challenges.
 ## Week 12
-**Assignment:** Sustainability   
+Co-creative process
 ## Week 13
-**Assignment:** Perception Analysis 1   
+Distill and prototype.
 **Reading:** Creswell, Research Design, p. 178-183 https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Media/creswell_research_design_178_183.pdf   
 **Video:** Collecting Primary Data Using a Questionnaire https://www.youtube.com/watch?v=fJsU9Sph-QE    
 **Video:** Unstructured, Semi-Structured and Structured Interviews https://www.youtube.com/watch?v=gzwGEBJGz8s   
 ## Week 14
-**Classwork:** Research Plan   
-**Assignment:*** Perception Analysis 2   
+Written documentation
 ## Week 15
-**Process & Reflection**   
+New York Cities Presentations
 # Assessable Tasks
 This course involves a series of short assignments that will be used to assess your understanding of the material covered. In addition, you will be responsible for writing a Final Report and contributing to a Final Presentation. Your participation in class discussion and other activities is also considered extremely important and will affect your final grade.
 
