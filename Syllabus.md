@@ -25,66 +25,71 @@ By the successful completion of this course, students will be able, at an introd
 1. DEMONSTRATE COMPETENCE IN working as a team member.
 
 # Course Outline
-## Week 01
+## Week 01 1/22
 **Introduction and Overview**   
 Mindmapping      
 In-Class Interviews   
-## Week 02
+## Week 02 1/29
 **Assignment:** In-Class Interview Findings   
 **Reading:** Underhill, Paco: _Why We Buy_   
 [Malcolm Gladwell: Choice, happiness and spaghetti sauce | TED Talk | TED.com] (https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce)     
-## Week 03
+## Week 03 2/5
 **Assignment:** Shopper Shadowing   
 **Reading:** Lois Frankel - _Communicating Design Research Knowledge**   
 **Reading:** Universal Methods of Design: 6, 42, 57, 76
-## Week 04
+## Week 04 2/12
 **Assignment:** Urban Observation & Data Digging   
 **Media:**    
 - This American Life: Mapping   
 - The Social Life of Small Urban Spaces   
 - The Agency of Mapping
 - [The Art of Design Research (and Why It Matters)](https://www.theatlantic.com/entertainment/archive/2011/05/the-art-of-design-research-and-why-it-matters/239561/)   
-## Week 05
+## Week 05 2/19
 **Assignment:** Interface Mapping 01   
 **Media:**   
 RadioLab - _The Trust Engineers_   
 Problem Framing   
 The Design of Everyday Things; Chapters 1 & 2   
-## Week 06
+## Week 06 2/26
 **Assignment:** Interface Mapping 02    
 **Reading:**[Universal Methods of Design](http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608)   
-## Week 07
+## Week 07 3/5
 **Assignment:** Interface Mapping Final    
 **Media:**   
 - When to use Which User-Experience Methods   
 - Creswell, Design Research Excerpt   
-## Week 08
+## Week 08 3/12
 **Assignment:** Ritual Routine Redesign Part 1: Inquire   
 **Media:**   
 - Design Ethnography   
 - Empathy on the Edge   
 - Ethnography Primer   
-## Week 09
+## Week 09 3/26
 **Assignment:** Ritual Routine Redesign Part 2: Interpret   
-## Week 10
+## Week 10 4/2
 **Assignment:** Ritual Routine Redesign Part 3: Innovate   
 **Media:**
 Deconstructing Analysis Methods   
 [Nova - *Prediction by the numbers*](http://www.pbs.org/wgbh/nova/physics/prediction-numbers.html)   
-## Week 11
+## Week 11 4/9
 **Final:** New York Cities   
 Context, Secondary research, primary research, challenges.
-## Week 12
-Co-creative process
-## Week 13
-Distill and prototype.
-**Reading:** Creswell, Research Design, p. 178-183 https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Media/creswell_research_design_178_183.pdf   
 **Video:** Collecting Primary Data Using a Questionnaire https://www.youtube.com/watch?v=fJsU9Sph-QE    
+## Week 12 4/16
+**Final:** New York Cities   
+Context, Secondary research, primary research, challenges.   
+Co-creative process
+**Reading:** Creswell, Research Design, p. 178-183 https://github.com/arielchuri/Research-and-Development-Methods/blob/master/Media/creswell_research_design_178_183.pdf    
+## Week 13 4/23
+**Final:** New York Cities   
+Co-creative process   
 **Video:** Unstructured, Semi-Structured and Structured Interviews https://www.youtube.com/watch?v=gzwGEBJGz8s   
-## Week 14
-Written documentation
-## Week 15
-New York Cities Presentations
+## Week 14 4/30
+**Final:** New York Cities   
+Distill and Prototype
+## Week 15 5/7
+**Final:** New York Cities   
+New York Cities Presentations   
 # Assessable Tasks
 This course involves a series of short assignments that will be used to assess your understanding of the material covered. In addition, you will be responsible for writing a Final Report and contributing to a Final Presentation. Your participation in class discussion and other activities is also considered extremely important and will affect your final grade.
 
