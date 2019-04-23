@@ -1,5 +1,8 @@
 # Brainwriting
-We will need to prototype an aspect of your agency. Use *brainwriting* to generate potential interactions to prototype. What are some of the many ways this agency interacts with the public. Remember that the *ideas* you post need not be complete but may only be the spark of an idea for someone else to expand on.
+
+You will need to prototype an aspect of your agency. Use *brainwriting* to generate potential interactions to prototype. What are some of the many ways this agency interacts with the public. Remember that the *ideas* you post need not be complete but may only be the spark of an idea for someone else to expand on.
+
+Time: 15 minutes per topic
 
 1. Write the topic around which you need to generate ideas and draw a picture of it. An example of a topic might be “Free Transport Agency.”
 
@@ -9,9 +12,7 @@ We will need to prototype an aspect of your agency. Use *brainwriting* to genera
 
 4. Read the new idea and think of it as an “idea stimulation” card. Add an idea inspired by what you just read or to enhance the idea, post it and move on to the right again.
 
-5. If you think of a new idea post it separately and move on.
-
-5. Continue this process of *brainwriting* and moving to the right until there are various ideas on each card.
+5. Continue this process of *brainwriting* and moving to the right until there are various ideas in each section.
 
 6. Once finished, collect the post-its and post them around the topic and its picture.
 
